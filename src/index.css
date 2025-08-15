@@ -1,6 +1,7 @@
 /* Import Alata font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
-@import url('https: //fonts.google.com/specimen/Josefin+Sans');
+/* Import fonts from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
 
 @tailwind base;
 @tailwind components;
